@@ -30,7 +30,7 @@ gist:
 
 ### Ilana Corson
 
-gist:
+gist https://gist.github.com/icorson3/ee925e7f5efeb1fb03c7fa5235e8c58c
 
 ### Jennifer Soden
 
