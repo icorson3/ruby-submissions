@@ -13,14 +13,14 @@
 ### Erin Greenhalgh
 
 ### Ilana Corson
-
+https://github.com/icorson3/module_3_assessment
 ### Jennifer Soden
 
 ### Karina Gonzalez
 
 ### Kerry Sheldon
 
-### Lucy Fox https://github.com/lucyfox4131/module_3_assessment
+### Lucy Fox
 
 ### Marcella Wigg
 
