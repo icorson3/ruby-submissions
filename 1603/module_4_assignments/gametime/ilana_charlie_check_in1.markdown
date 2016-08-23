@@ -46,8 +46,11 @@ Similar to 2048, with pictures of students of 1603 instead of numbers.
 
 ### What have you accomplished so far?
 
+We have created a canvas and put some basic bootstrap into the project. We have also completed the logic for the game tiles, on paper.
+
 ### Questions, Comments, Concerns?
 
+We are concerned about making the logic and animation pieces work together. 
 -----
 
 # Instructor Feedback Section
